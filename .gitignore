@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.key
+*.db
+*.db-wal
+*.db-shm
+kalshi_trader.log
+dist/
+build/
+*.egg-info/
+.ruff_cache/
+.pytest_cache/

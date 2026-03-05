@@ -1,0 +1,17 @@
+{
+  "started_at": "2026-03-04T21:15:22.659937+00:00",
+  "last_cycle": "2026-03-04T23:49:24.986647+00:00",
+  "cycle_count": 155,
+  "total_trades_scanned": 396083,
+  "total_anomalies": 4,
+  "total_filtered_volume": 232519,
+  "total_filtered_closed": 1030,
+  "min_market_volume": 100000.0,
+  "threshold": 0.35,
+  "poll_interval": 60,
+  "market_cache_size": 7360,
+  "platforms": {
+    "kalshi": true,
+    "polymarket": true
+  }
+}
